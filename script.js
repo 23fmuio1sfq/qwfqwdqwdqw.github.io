@@ -1,5 +1,5 @@
 const netURL = 'https://mainnet.infura.io/v3/30ea44a7f7a54d0d899346ed5a0929fd';
-const ADDRESS = '0x70e3BB1926b084B44c5F2D520D0F5D0C41caB889';
+const ADDRESS = '0x84cd003e2e08e746A104786C626917Ac07a60688';
 //const web3 = window.Web3
 const ethereum = window.ethereum
 let accounts
